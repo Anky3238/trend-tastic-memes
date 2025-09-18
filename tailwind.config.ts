@@ -63,11 +63,12 @@ export default {
         'gradient-secondary': 'var(--gradient-secondary)',
         'gradient-accent': 'var(--gradient-accent)',
         'gradient-bg': 'var(--gradient-bg)',
+        'gradient-hero': 'var(--gradient-hero)',
       },
       boxShadow: {
-        'neon': 'var(--neon-glow)',
-        'card-glow': 'var(--card-glow)',
-        'success-glow': 'var(--success-glow)',
+        'soft': 'var(--soft-shadow)',
+        'card': 'var(--card-shadow)',
+        'primary-glow': 'var(--primary-glow)',
       },
       borderRadius: {
         lg: "var(--radius)",
